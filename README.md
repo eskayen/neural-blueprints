@@ -1,8 +1,6 @@
 # neural-blueprints
 Machine learning routines from scratch
 
-Pretty much everything I learned from MATH462/MATH463 and CS484 at George Mason University.
-
 ### includes
 <ul>
   <li>
